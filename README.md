@@ -1,6 +1,6 @@
 # From Scratch
 
-![from-scratch](https://socialify.git.ci/nicholasadamou/from-scratch/image?description=1&name=1&owner=1&pattern=Circuit+Board&theme=Auto)
+![from-scratch](https://socialify.git.ci/nicholasadamou/from-scratch/image?description=1&name=1&owner=1&pattern=Circuit+Board&theme=Light)
 
 A collection of simplified implementations of complex systems, built from scratch to understand their core principles.
 
