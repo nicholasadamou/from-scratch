@@ -1,4 +1,4 @@
-# From Scratch
+# 🌱 From Scratch
 
 ![from-scratch](https://socialify.git.ci/nicholasadamou/from-scratch/image?description=1&name=1&owner=1&pattern=Circuit+Board&theme=Light)
 
