@@ -40,7 +40,7 @@ You can read an article about this project [here](https://www.nicholasadamou.com
 
 A collection of data structures that are not included in the Python standard library built to learn more about data structures and algorithms.
 
-I wrote an article on [_A Deeper Than Not Dive Into Two Sum_](https://www.nicholasadamou.com/notes/a-deeper-than-not-dive-into-two-sum), exploring the infamous LeetCode problem #1, [Two Sum](https://leetcode.com/problems/two-sum). In this article, I explained my thought process behind databricks and why building systems _from scratch_ is a useful learning technique for the curious developer. Moreover, I take a deep dive into the low level design of a hash map that features the [Hash Map](https://github.com/nicholasadamou/databricks/blob/master/HashMap/HashMap.py) implementation from databricks. You can read the section of the article [here](https://www.nicholasadamou.com/notes/a-deeper-than-not-dive-into-two-sum#before-we-begin).
+I wrote an article on [_A Deeper Than Not Dive Into Two Sum_](https://www.nicholasadamou.com/notes/a-deeper-than-not-dive-into-two-sum), exploring the infamous LeetCode problem #1, [Two Sum](https://leetcode.com/problems/two-sum). In this article, I explained my thought process behind databricks and why building systems _from scratch_ is a useful learning technique for the curious developer. Moreover, I take a deep dive into the low level design of a hash map that features the [Hash Map](https://github.com/nicholasadamou/databricks/blob/master/HashMap/HashMap.py) implementation from databricks. You can read this section of the article [here](https://www.nicholasadamou.com/notes/a-deeper-than-not-dive-into-two-sum#before-we-begin).
 
 ## Development Guidelines
 
