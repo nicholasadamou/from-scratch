@@ -33,7 +33,7 @@ A simplified load balancer implementation in Java using Spring Boot that demonst
 
 You can read an article about this project [here](https://www.nicholasadamou.com/notes/building-a-simple-load-balancer-with-spring-boot).
 
-### [databricks](https://github.com/nicholasadamou/databricks)
+### [Data Structures](https://github.com/nicholasadamou/databricks)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)

@@ -1,6 +1,3 @@
 [submodule "load-balancer"]
 	path = load-balancer
 	url = https://github.com/nicholasadamou/spring-boot-load-balancer-demo
-[submodule "databricks"]
-	path = databricks
-	url = https://github.com/nicholasadamou/databricks
