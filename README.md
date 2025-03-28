@@ -59,7 +59,7 @@ A system for uploading large files (20GB+) to Amazon S3 using multipart uploads 
 - MongoDB for tracking upload progress
 - React/TypeScript/Vite frontend for chunking files and handling uploads
 
-You can read an article about this project [here](https://www.nicholasadamou.com/notes/handling-large-file-uploads-20gb-in-node-js-with-s3-multipart-upload-using-signed-urls).
+You can read an article about this project [here](https://www.nicholasadamou.com/notes/handling-large-file-uploads-20gb-in-fast-api-with-s3-multipart-upload-using-signed-urls).
 
 ## Development Guidelines
 
