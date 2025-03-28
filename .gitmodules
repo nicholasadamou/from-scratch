@@ -1,9 +1,0 @@
-[submodule "load-balancer"]
-	path = load-balancer
-	url = https://github.com/nicholasadamou/spring-boot-load-balancer-demo
-[submodule "data-structures"]
-	path = data-structures
-	url = https://github.com/nicholasadamou/databricks
-[submodule "s3-large-file-uploader"]
-	path = s3-large-file-uploader
-	url = https://github.com/nicholasadamou/s3-large-file-uploader
